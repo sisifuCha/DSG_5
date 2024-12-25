@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/new/picture">
+        <file>tx1.png</file>
+        <file>tx2.png</file>
+        <file>tx3.png</file>
+        <file>select.png</file>
+        <file>gem7.png</file>
+        <file>gem8.png</file>
+        <file>gameover.png</file>
+        <file>mine7.png</file>
+        <file>mine2.png</file>
+        <file>mine5.png</file>
+        <file>mine6.png</file>
+        <file>mine1.png</file>
+        <file>mine8.png</file>
+        <file>mine4.png</file>
+        <file>mine3.png</file>
+        <file>pushbotton_background.png</file>
+        <file>gem-1.png</file>
+        <file>gem2.png</file>
+        <file>gem3.png</file>
+        <file>gem4.png</file>
+        <file>gem6.png</file>
+        <file>gem5.png</file>
+        <file>gem1.png</file>
+        <file>fruit0.png</file>
+        <file>fruit10.png</file>
+        <file>fruit8.png</file>
+        <file>fruit4.png</file>
+        <file>fruit5.png</file>
+        <file>fruit3.png</file>
+        <file>fruit2.png</file>
+        <file>fruit1.png</file>
+        <file>boom.png</file>
+        <file>cross.png</file>
+        <file>color.png</file>
+        <file>d0.png</file>
+        <file>d1.png</file>
+        <file>d2.png</file>
+        <file>d3.png</file>
+        <file>d4.png</file>
+        <file>d5.png</file>
+        <file>d6.png</file>
+        <file>d7.png</file>
+        <file>d8.png</file>
+        <file>d9.png</file>
+        <file>RankWord.png</file>
+        <file>stop.jpg</file>
+        <file>bsmz.png</file>
+        <file>bsmz1.png</file>
+        <file>gameover3.png</file>
+        <file>stop.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>music off.png</file>
+        <file>eliminate_a.mp3</file>
+        <file>eliminate_b.mp3</file>
+        <file>eliminate_c.mp3</file>
+        <file>excellent.mp3</file>
+        <file>great.mp3</file>
+        <file>last_4s.mp3</file>
+        <file>last_10s.mp3</file>
+        <file>unbelievable.mp3</file>
+        <file>amazing.mp3</file>
+        <file>down.mp3</file>
+        <file>music on.png</file>
+        <file>bgm.mp3</file>
+    </qresource>
+</RCC>
